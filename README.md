@@ -74,25 +74,25 @@
 
 ### 🚀 Featured Projects:
 
-<div align="center">
-  <a href="https://github.com/p3droparamo/model-fitness">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=model-fitness&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/p3droparamo/showz-analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=showz-analysis&theme=tokyonight" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/p3droparamo/online-store-ab-test">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=online-store-ab-test&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/p3droparamo/literary-data-analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=literary-data-analysis&theme=tokyonight" />
-  </a>
-</div>
+#### 💪 Model Fitness | Predictive analysis of customer retention
+- Developed a machine learning model to identify high-risk customers using logistic regression and random forest techniques
+- **Technologies:** Python, Pandas, Scikit-learn
+- [View Project](https://github.com/p3droparamo/model-fitness)
 
-<!-- Note: You'll need to create the repositories mentioned above for them to appear correctly -->
+#### 🎵 Showz | Comprehensive analysis of commercial performance
+- Detailed study on user behavior and buying patterns on a concert ticket sales platform
+- **Technologies:** Python, NumPy, Matplotlib
+- [View Project](https://github.com/p3droparamo/showz-analysis)
+
+#### 🛒 International Online Store | Evaluation of recommendation system
+- Design and implementation of an A/B experiment to measure the impact of a recommendation algorithm
+- **Technologies:** Pandas, NumPy, Seaborn
+- [View Project](https://github.com/p3droparamo/online-store-ab-test)
+
+#### 📚 Digital Literary Service | Bibliometric data analysis
+- Development of complex SQL queries to extract reading preference patterns
+- **Technologies:** SQL, Pandas, SQLAlchemy
+- [View Project](https://github.com/p3droparamo/literary-data-analysis)
 
 ### 📚 Education:
 
