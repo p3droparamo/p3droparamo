@@ -1,7 +1,5 @@
 # Pedro Fabián Gutiérrez Vidrio
 
-![Banner](https://raw.githubusercontent.com/p3droparamo/p3droparamo/main/assets/banner-github.png)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-fabian-feed/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,7 +22,7 @@
 
 ❤️ I love discovering new ways to automate my work and transform data into strategic decisions
 
-📫 Want to get in touch? contacto.pedrofabian@gmail.com
+📫 Want to get in touch? [contacto.pedrofabian@gmail.com](mailto:contacto.pedrofabian@gmail.com)
 
 ### 🛠️ Languages and Tools:
 
