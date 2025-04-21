@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Investigador y analista de datos con formación en ciencias sociales y experiencia profesional en sistemas informáticos. Especialista en análisis cuantitativo y cualitativo, con habilidades avanzadas en herramientas estadísticas, visualización de datos y gestión de sistemas tecnológicos. Capacidad demostrada para diseñar investigaciones, procesar información y comunicar resultados de manera efectiva para la toma de decisiones estratégicas.
 <!--
 **p3droparamo/p3droparamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
