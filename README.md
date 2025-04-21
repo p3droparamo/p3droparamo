@@ -1,113 +1,108 @@
-## Hi there 👋
+# Pedro Fabián Gutiérrez Vidrio
 
-I am a data researcher and analyst with social sciences background and professional experience in IT systems. Specialist in quantitative and qualitative analysis, with advanced skills in statistical tools (Python, SQL, Pandas, Sci-kit learn), data visualization (Plotly, Dash, Seaborn, Tableau, Matplotlib), and technology systems management. Demonstrated ability to design research, process information with modern analytics tools (SQLAlchemy, SPSS), and effectively communicate results for strategic decision-making
-<!--
-**p3droparamo/p3droparamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://raw.githubusercontent.com/p3droparamo/p3droparamo/main/assets/banner-github.png)
 
-Here are some ideas to get you started:
--->
-📊 My Collaboration Timeline
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-fabian-feed/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/p3droparamo" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:contacto.pedrofabian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=p3droparamo.p3droparamo" alt="visitors" />
+</div>
 
-🧪 2024-2025 | Data Analyst at Tripleten Bootcamp
+## Hello, I'm Pedro Fabián. Nice to meet you! 👋
 
-Developed advanced skills in data analysis and machine learning
-Completed practical projects focused on real business solutions
-Implemented predictive models and advanced statistical analysis
+### 📊 About me:
 
+🔍 Passionate about technology and data science with experience in social research
 
-🖥️ 2024 | Voice and Data Technician at Instituto Nacional Electoral
+💻 Currently pursuing a PhD in Social Sciences and combining quantitative analysis with qualitative research
 
-Installation and configuration of communication systems
-Technical support and incident resolution
-Technical reporting
+🧪 Specialist in data analysis using Python, SQL, and advanced statistical tools
 
+❤️ I love discovering new ways to automate my work and transform data into strategic decisions
 
-🔍 2021-2023 | Managed Services Engineer at INTERSEL
+📫 Want to get in touch? [Write to me!](mailto:contacto.pedrofabian@gmail.com)
 
-Development of monthly dashboards for performance analysis
-SQL database management and analysis
-Process optimization and technical documentation
-Monitoring of technological infrastructure
+### 🛠️ Languages and Tools:
 
+<div align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/PLOTLY-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/DASH-008DE4?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" />
+  <img src="https://img.shields.io/badge/SQLALCHEMY-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
 
-🛠️ 2019-2021 | Technical Support Manager at Centro de Distribución Soriana
+### 🔥 My Stats:
 
-Administration of computer systems
-Database management and report generation
-Technical support and incident management
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p3droparamo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3droparamo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
+### 📈 My Professional Journey:
 
+- 🧪 **2024-2025** | Data Analyst at Tripleten Bootcamp
+  - Development of predictive models and advanced statistical analysis
+  - Implementation of practical projects focused on real business solutions
 
-🚀 Featured Projects
+- 🖥️ **2024** | Voice and Data Technician at Instituto Nacional Electoral
+  - Installation and configuration of communication systems
+  - Technical support and incident resolution
 
-💪 Model Fitness | Predictive analysis of customer retention
+- 🔍 **2021-2023** | Managed Services Engineer at INTERSEL
+  - Development of monthly dashboards for performance analysis
+  - Management and analysis of SQL databases
+  - Monitoring of technological infrastructure
 
-Developed a machine learning model to identify high-risk customers using logistic regression and random forest techniques
-Technologies: Python, Pandas, Scikit-learn
+- 🛠️ **2019-2021** | Technical Support Manager at Centro de Distribución Soriana
+  - Administration of computer systems
+  - Database management and report generation
 
+### 🚀 Featured Projects:
 
-🎵 Showz | Comprehensive analysis of commercial performance
+<div align="center">
+  <a href="https://github.com/p3droparamo/model-fitness">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=model-fitness&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/p3droparamo/showz-analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=showz-analysis&theme=tokyonight" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/p3droparamo/online-store-ab-test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=online-store-ab-test&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/p3droparamo/literary-data-analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p3droparamo&repo=literary-data-analysis&theme=tokyonight" />
+  </a>
+</div>
 
-Detailed study on user behavior and buying patterns on a concert ticket sales platform
-Technologies: Python, NumPy, Matplotlib
+<!-- Note: You'll need to create the repositories mentioned above for them to appear correctly -->
 
+### 📚 Education:
 
-🛒 International Online Store | Evaluation of recommendation system
+- 🎓 **PhD in Social Sciences** | Universidad de Sonora (2022-2025)
+- 📊 **Data Analyst Bootcamp** | Tripleten (2024-2025)
+- 🎓 **Master's in Educational Innovation** | Universidad de Sonora (2019-2021)
+- 🎵 **Bachelor's in Music** | Universidad de Sonora (2014-2018)
 
-Design and implementation of an A/B experiment to measure the impact of a recommendation algorithm
-Technologies: Pandas, NumPy, Seaborn
+---
 
-
-📚 Digital Literary Service | Bibliometric data analysis
-
-Development of complex SQL queries to extract reading preference patterns and correlations between ratings and editorial features
-Technologies: SQL, Pandas, SQLAlchemy
-
-
-📞 CallMyMaybe | Performance evaluation system for telephone service
-
-Implementation of a multidimensional analysis of telephone operator performance with advanced statistical techniques
-Technologies: Python, NumPy, Matplotlib, Seaborn, Statsmodels
-
-
-
-🛠️ Skills & Tools
-
-📊 Data Analysis: Python, SQL, Pandas, NumPy
-📈 Data Visualization: Tableau, Matplotlib, Seaborn, Plotly, Dash
-🤖 Machine Learning: Scikit-learn
-💾 Databases: SQL, SQLAlchemy
-📉 Statistical Analysis: SPSS, Statsmodels
-
-📚 Education
-
-🎓 PhD in Social Sciences | Universidad de Sonora (2022-2025)
-📊 Data Analyst Bootcamp | Tripleten (2024-2025)
-🎓 Master's in Educational Innovation | Universidad de Sonora (2019-2021)
-🎵 Bachelor's in Music | Universidad de Sonora (2014-2018)
-
-📜 Certifications
-
-🌐 Introduction to Emerging Technologies: 2024 Edition - Emtech Institute of Santander Open Academy
-☁️ Fundamentos del cómputo en la nube (2020)
-🔌 Técnico en Redes de Datos (2020)
-💻 Técnico en Informática (2020)
-
-📫 How to reach me: ...
-
-📧 Email: contacto.pedrofabian@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/pedro-fabian-feed/
-
-😄 Pronouns: ...
-
-He/Him/His
-
-⚡ Fun fact: ...
-
-I have a Bachelor's degree in Music and blend my analytical skills with creative thinking!
-
-<!--
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=p3droparamo&show_icons=true&theme=radical)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3droparamo&layout=compact&theme=radical)
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
