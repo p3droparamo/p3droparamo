@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently working on ...
+
 I am a data researcher and analyst with social sciences background and professional experience in IT systems. Specialist in quantitative and qualitative analysis, with advanced skills in statistical tools, data visualization, and technology systems management. Demonstrated ability to design research, process information, and effectively communicate results for strategic decision-making
 <!--
 **p3droparamo/p3droparamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
