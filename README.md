@@ -9,9 +9,6 @@
   <a href="https://github.com/p3droparamo" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:contacto.pedrofabian@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=p3droparamo.p3droparamo" alt="visitors" />
 </div>
 
@@ -27,7 +24,7 @@
 
 ❤️ I love discovering new ways to automate my work and transform data into strategic decisions
 
-📫 Want to get in touch? [Write to me!](mailto:contacto.pedrofabian@gmail.com)
+📫 Want to get in touch? contacto.pedrofabian@gmail.com
 
 ### 🛠️ Languages and Tools:
 
